@@ -81,3 +81,31 @@ These visuals in the "Order Monitoring," "Product Monitoring," and "Customer Mon
 
 
 This Power BI report aims to provide stakeholders with valuable insights into EcoPower Logistics' operations.
+
+# Reference List:
+
+1. [Microsoft Power BI](https://powerbi.microsoft.com/en-us/desktop/)
+2. [Microsoft Power BI Best Practices](https://spreadsheeto.com/power-bi-best-practices/#:~:text=1%20Put%20first%20things%20first.%20This%20one%20is,with%20numeric%20data%2C%20use%20integers%20instead%20of%20strings.)
+3. [Power BI Data Storytelling](https://powerbi.microsoft.com/en-us/data-storytelling/)
+4. [Power BI Certification](https://learn.microsoft.com/en-us/credentials/certifications/power-bi-data-analyst-associate/)
+5. [Introduction to Power BI](https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/)
+6. [Model in Power BI](https://docs.microsoft.com/en-us/learn/paths/model-power-bi/)
+7. [Excel vs. Power BI: Choosing the Right Dashboard](https://www.linkedin.com/pulse/excel-vs-power-bi-choosing-right-dashboard-your-business-zubair/)
+8. [Microsoft Power BI on TechTarget](https://www.techtarget.com/searchcontentmanagement/definition/Microsoft-Power-BI)
+9. [Power BI on Northern Data](https://www.northerndata.co.za/mircorsoft-power-bi-experts?gclid=CjwKCAjw-eKpBhAbEiwAqFL0mueXhYn4sxnHbznQ4LKMnRNkUkAq5M2yeNUsVpwLkbeHBkGHdDC-5BoCmOsQAvD_BwE)
+10. [Olympus - Power BI Course](https://olympus.mygreatlearning.com/courses/14374)
+11. [Simplilearn - Free Online Courses](https://www.simplilearn.com/skillup-free-online-courses)
+12. [Microsoft Power BI Downloads](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+13. [Mindmajix - How to Download and Install Power BI Desktop](https://mindmajix.com/how-to-download-and-install-power-bi-desktop)
+14. [Power BI Tiles](https://powerbitiles.com/PowerBIRobots/)
+15. [YouTube - CMPG323](https://www.youtube.com/@CMPG323)
+16. [YouTube - Power BI Introduction](https://www.youtube.com/watch?v=HrPipzMA5gk)
+17. [YouTube - Power BI Tips](https://www.youtube.com/watch?v=gv58fGGgRQs)
+18. [YouTube - Power BI Data Analysis](https://www.youtube.com/watch?v=TmhQCQr_DCA)
+19. [YouTube - Power BI Visualizations](https://www.youtube.com/watch?v=yKTSLffVGbk)
+20. [YouTube - Power BI Dashboards](https://www.youtube.com/watch?v=z_F-j3PVRA8)
+21. [YouTube - Power BI Playlist](https://www.youtube.com/watch?v=-_DJPRrFQXI&list=PLEiEAq2VkUUKkxDwsS24zFU9kYwma3kdV)
+22. [YouTube - Power BI Data](https://www.youtube.com/watch?v=5fzelSbdp20&list=PLEiEAq2VkUUKkxDwsS24zFU9kYwma3kdV&index=5)
+23. [YouTube - Power BI Tutorial](https://www.youtube.com/watch?v=TBVss5711QM&list=PLEiEAq2VkUUKkxDwsS24zFU9kYwma3kdV&index=8)
+24. [ClickUp - Excel Alternatives](https://clickup.com/blog/excel-alternatives/#:~:text=Apache%20OpenOffice%20Calc&text=Apache%20OpenOffice%20Calc%20is%20one,analysis%20tool%20for%20number%20crunchers.)
+25. [Microsoft Power BI Visuals on AppSource](https://appsource.microsoft.com/en-us/marketplace/apps?product=power-bi-visuals)
