@@ -72,7 +72,7 @@ In the "Customer Monitoring" section, we focus on customer-related data with the
    - A table displays customer details, including their title, name, the month they made an order, and the number of orders they made in the respective month.
 
 2. **Amount of Orders per Month (Pie Chart)**:
-   - A pie chart illustrates the distribution of orders per month, allowing stakeholders to understand order patterns across different time periods.
+   - A pie chart illustrates the distribution of orders per month, allowing stakeholders to understand order patterns across different periods.
 
 3. **Total Number of Customers (Card)**:
    - A card visualizes the total number of customers, providing a quick snapshot of the customer base.
